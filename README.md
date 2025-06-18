@@ -35,3 +35,18 @@ Download automático de relatórios da plataforma.
 Exportação para CSV/Excel (pronto para análise em BI ou planilhas).
 
 Possibilidade de agendamento (ex.: atualização diária).
+
+📄 Licença
+Este projeto é open-source, sob licença MIT.
+
+📬 Contato
+Se tiver dúvidas ou sugestões, me chame no LinkedIn ou abra uma issue no GitHub!
+
+🌟 Contribuições são bem-vindas!
+
+🔗 Acesse o projeto em: https://github.com/owlboy13/web_scraping_entrego
+
+💡 Dica para Usuários
+Agende execuções (via Cron/Agendador de Tarefas) para atualizações automáticas.
+
+Adapte os scripts para outras plataformas logísticas (ex.: Correios, Jadlog).
